@@ -1,0 +1,103 @@
+
+#about-par {
+  
+  color: white;
+  margin-top: 300px;
+  position: absolute; z-index: 2; left: 0; top: 0; width: 100%;
+  text-align: center;
+  font-size: 106px;
+  font-family: 'Offside', cursive;
+}
+
+
+.text-center {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 22px;
+  color: #F7484E;
+}
+
+
+  
+.abouts {
+  background: #F7484E;
+}
+.col-sm-12 {
+  background: #292929;
+}
+
+.about-other {
+  background: #FFFFFF;
+}
+.contacts {
+  background: #292929;
+}
+
+.projects-other {
+  background: #010102;
+}
+
+.p {
+  text-align: center;
+  padding-top: 120px;
+}
+
+.p a {
+  text-decoration: underline;
+  color: blue;
+}
+
+#Main , #About, #Projects, #Contact{
+  height: 768px;
+}
+
+.center-block {
+  display: block;
+  margin: auto;
+  margin-left: 32%;
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 512px;
+  height: 512px;
+  /* margin-top: 200px; */
+}
+
+.Main-text {
+  text-align: cneter;
+}
+.NavBar-Links {
+  padding: 20px;
+  margin-top: 240px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 22px;
+  text-decoration: none;
+  color: rgb(241, 235, 235);
+  
+}
+
+.Color-a {
+  color: #F7484E;
+}
+.Color-b {
+  color: rgb(13, 14, 12);
+}
+
+.about-content {
+  margin-top: 370px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 82px;
+  text-decoration: none;
+  color: rgb(241, 235, 235);
+}
+
+.Proj-Content {
+  margin-top: 370px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 82px;
+  text-decoration: none;
+  color: rgb(20, 20, 20);
+}
