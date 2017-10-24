@@ -2,8 +2,16 @@
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
   
      /* Styles for Desktops */
-     #Main , #About, #Projects, #Contact{
+     #Main , #About, #Projects, #Contact {
       height: 800px;
+    }
+	
+     .text-center {
+	      margin-top: 100px;
+	      margin-bottom: 60px;
+	      font-family: 'Montserrat', sans-serif;;
+	      font-size: 22px;
+	      color: #F7484E;
     }
    }
 
