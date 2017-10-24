@@ -81,7 +81,7 @@
   color: #F7484E;
 }
 .Color-b {
-  color: rgb(13, 14, 12);
+  color: rgb(226, 226, 226);
 }
 
 .about-content {
@@ -99,5 +99,53 @@
   font-family: 'Montserrat', sans-serif;;
   font-size: 82px;
   text-decoration: none;
-  color: rgb(20, 20, 20);
+  color: rgb(226, 226, 226);
+}
+
+
+.profileImage {
+  position: relative;
+  left: 850px;
+}
+
+.profileImage2 {
+  position: relative;
+  margin-top: 350px;
+  right: 90px;
+}
+
+#about-Blurb {
+  width: 500px;
+  position: relative;
+  bottom: 140px;
+  margin-left: 240px;
+}
+
+.projectImages {
+  display: block;
+  margin: auto;
+  margin-top: 70px;
+}
+
+.other {
+  display: block;
+  text-align:center
+}
+
+form {
+  margin-top: 70px;
+}
+
+#contact {
+	background:#F9F9F9;
+	padding:25px;
+	margin:50px 0;
+}
+
+fieldset {
+	border: medium none !important;
+	margin: 0 0 10px;
+	min-width: 100%;
+	padding: 0;
+	width: 100%;
 }
